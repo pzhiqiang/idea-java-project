@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("update2");
         System.out.println("dev1分支修改...");
         System.out.println("master分支修改");
+        System.out.println("master 修改2..");
     }
 }
