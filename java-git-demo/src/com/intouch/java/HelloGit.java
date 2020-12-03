@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("dev1分支修改...");
         System.out.println("master分支修改");
         System.out.println("master 修改2..");
+        System.out.println("这是wangda的第一次修改");
     }
 }
